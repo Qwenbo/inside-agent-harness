@@ -479,7 +479,7 @@ There is no single harness architecture to copy.
 
 **There are patterns to understand and trade-offs to choose.**
 
-We now have a map of what sits inside an agent harness. In Part II, we'll go one layer deeper and look at the mechanism that keeps all of it moving: **the agent loop**.
+We now have a map of what sits inside an agent harness. In Part II, I'll go one layer deeper and look at the mechanism that keeps all of it moving: **the agent loop**.
 
 ## References
 
