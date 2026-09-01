@@ -5,7 +5,7 @@ using Claude Code, Codex, Pi, and DeepSeek Harness as case studies.
 
 **By Wenbo Qiao** · [LinkedIn](https://www.linkedin.com/in/wenbo-3q/)
 
-![Inside the Agent Harness](images/harness_p1_02.png)
+![Inside the Agent Harness](images/cover.png)
 
 ## Series
 
